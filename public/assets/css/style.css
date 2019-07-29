@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    background-image: url("../img/big-tasty-home-made-burger-background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:whitesmoke;
+}
+
+h1,h5,p {
+    font-family: 'Stylish';
+    line-height: 35px;  
+    margin: 0;
+    padding: 10px;  
+}
+
+.btn{
+    background-color:darkgreen;
+    border: solid 1px whitesmoke;
+    color: whitesmoke;
+    height: 35px;
+}
