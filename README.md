@@ -4,6 +4,7 @@
     https://github.com/yzhouyzhou/burger
  
 *   heroku URL
+    https://yzhou-burger-liver1.herokuapp.com/
 
 *   The link was also added into my updated portfolio https://yzhouyzhou.github.io/Bootstrap-Portfolio/games.html
     burger July 30 2019

@@ -15,7 +15,7 @@ h1,h5,p {
 
 .btn{
     background-color:darkgreen;
-    border: solid 1px whitesmoke;
+    border: solid 1px darkgreen;
     color: whitesmoke;
     height: 35px;
 }
