@@ -1,13 +1,6 @@
-/* body {
-    background-color: white;
-    background-image: url('../img/big-tasty-home-made-burger-background.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-    color:whitesmoke;
-} */
 
 body {
-    background: url('../img/big-tasty-home-made-burger-background.webp') no-repeat center center fixed;
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, .1)), url('../img/big-tasty-home-made-burger-background.webp') no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
