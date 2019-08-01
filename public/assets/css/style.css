@@ -1,4 +1,3 @@
-
 body {
     background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, .1)), url('../img/big-tasty-home-made-burger-background.JPG') no-repeat;
     -webkit-background-size: cover;
@@ -7,18 +6,21 @@ body {
     background-size: cover;
     height: 100%;
     overflow: hidden;
-    color:whitesmoke;
+    color: whitesmoke;
+    /* Set a background color that will be displayed
+           while the background image is loading */
+    background-color: #302828;
 }
 
-h1,h5,p {
+h1, h5, p {
     font-family: 'Stylish';
-    line-height: 35px;  
+    line-height: 35px;
     margin: 0;
-    padding: 10px;  
+    padding: 10px;
 }
 
-.btn{
-    background-color:darkgreen;
+.btn {
+    background-color: darkgreen;
     border: solid 1px darkgreen;
     color: whitesmoke;
     height: 35px;
